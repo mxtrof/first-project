@@ -1,0 +1,9 @@
+.feynman__link_font-style_blue-h3 {
+  position: relative;
+  line-height: 51px;
+  font-size: 36px;
+  font-style: normal;
+  color: #2f80ed;
+  text-decoration: none;
+  z-index: 3;
+}
