@@ -1,4 +1,9 @@
 
+/* global */
+
+@import url(../styles/normalize.css);
+@import url(../styles/fonts.css);
+
 /* header */
 
 @import url(../blocks/page/header/header.css);
